@@ -1,5 +1,3 @@
-![CoroutineUsecasesOnAndroid](documentation/images/Logo-new.png)
-
 # Kotlin Coroutines - Use Cases on Android
 
 🎓 Learning Kotlin Coroutines for Android by example. 
@@ -23,34 +21,9 @@ Android version.
 
 Unit Tests exist for most use cases.
 
-## 🍿️ Related Videos
-* Kotlin Coroutines Fundamentals Playlist [[link](https://www.youtube.com/playlist?list=PL-1MzrWZIYU2a4TGbSXeXzfet8Br3cya1)]
-* Kotlin Coroutines Exception Handling explained [[link](https://youtu.be/Pgek3_3vPU8)]
-
-## ✍️ Related blog posts
-* 7 Common Mistakes you might be making when using Kotlin Coroutines [[link](https://www.vkdream.com/7-common-mistakes-you-might-be-making-when-using-kotlin-coroutines/)]
-* Why exception handling with Kotlin Coroutines is so hard and how to successfully master it! [[link](https://www.vkdream.com/why-exception-handling-with-kotlin-coroutines-is-so-hard-and-how-to-successfully-master-it/)]
-* Kotlin Coroutines exception handling cheat sheet [[link](https://www.vkdream.com/coroutines-exception-handling-cheat-sheet/)]
-* Understanding Kotlin Coroutines with this mental model [[link](https://www.vkdream.com/understanding-kotlin-coroutines-with-this-mental-model/)]
-* Do I need to call suspend functions of Retrofit and Room on a background thread? [[link](https://www.vkdream.com/do-i-need-to-call-suspend-functions-of-retrofit-and-room-on-a-background-thread/)]
-* Comparing Kotlin Coroutines with Callbacks and RxJava [[link](https://www.vkdream.com/comparing-kotlin-coroutines-with-callbacks-and-rxjava/)]
-* How to run an expensive calculation with Kotlin Coroutines on the Android Main Thread without freezing the UI [[link](https://www.vkdream.com/how-to-run-an-expensive-calculation-with-kotlin-coroutines-on-the-android-main-thread-without-freezing-the-ui/)]
-
-Sign up to my [newsletter](https://www.vkdream.com/newsletter/) to never miss a new blog post. I will publish new blog posts about Coroutines on a regular basis.
-
-## 🎓 Online Course
-
-This project is the foundation of a comprehensive Online Course about [Mastering Kotlin Coroutines for Android Development](https://www.udemy.com/course/coroutines-on-android/?referralCode=EE8CCB9284B14877724C)
-
-[![CourseCoroutinesOnAndroid](documentation/images/course.png)](https://www.udemy.com/course/coroutines-on-android/?referralCode=EE8CCB9284B14877724C)
-
-## 📢 Sharing is Caring 
+## 📢 Sharing is Caring
 
 If you like this project, please tell other developers about it! ❤️
-
-[![Share on Twitter](documentation/images/Twitter_bird_logo.png)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2FvkdreamDev%2FKotlin-Coroutine-Use-Cases-on-Android&text=This%20awesome%20example%20project%20shows%20how%20to%20implement%20the%20most%20common%20use%20cases%20for%20using%20Kotlin%20Coroutines%20for%20Android%20Development%21%20By%20@vkdreamDev&hashtags=%23AndroidDev%20%23Kotlin%20%23Coroutines)
-
-If you like, you can follow me on Twitter [**@vkdreamDev**](https://twitter.com/vkdreamDev).
 
 ## ⭐️ Use Cases
 1. [Perform single network request](#1-perform-single-network-request)
@@ -230,18 +203,15 @@ I am currently learning Coroutines myself. So if you have any ideas for or impro
 
 ## Author
 
-![vkdream](documentation/images/lukle.png)
+![Kumar Chavan]
 
-[Lukas Lechner](https://www.vkdream.com)
-
-[Twitter](https://twitter.com/vkdreamDev)
 
 ## License
 
 Licensed under the Apache License, Version 2.0 (the "License").
 You may obtain a copy of the License at
 
-   http://www.apache.org/licenses/LICENSE-2.0
+http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
